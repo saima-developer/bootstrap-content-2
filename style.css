@@ -1,0 +1,12 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.banner{
+	width: 100%;
+	height: 800px;
+	background-image: url("images/banner.jpg");
+	background-position: top;
+	background-size: cover;
+	background-repeat: no repeat;
+
+}
